@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Dave!
-![](https://www.canva.com/design/DAFHxax3ssw/eREHRUBM4Me4AWtaclxbEA/watch?utm_content=DAFHxax3ssw&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
+![Banner](https://github.com/idvd20/idvd20/blob/main/Banner.gif)
 
 I'm a chemical engineer turned software engineer and I'm excited (and scared) about making this switch! So far I really enjoy learning and there are so much to learn. I've been learning React, Node, Express, and MongoDB, and excited to learn more especially about the cloud or AI.
 
