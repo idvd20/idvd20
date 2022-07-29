@@ -1,7 +1,7 @@
 ![Banner](https://github.com/idvd20/idvd20/blob/main/Banner.gif)
 
 # Hi there 👋, I'm Dave!
-<img src="https://github.com/idvd20/idvd20/blob/main/RengokuGIF.gif" width="500" />
+<img src="https://github.com/idvd20/idvd20/blob/main/RengokuGIF.gif" width="300" />
 I'm a chemical engineer turned software engineer and I'm excited (and scared) about making this switch! So far I really enjoy learning and there are so much to learn. I've been learning React, Node, Express, and MongoDB, and excited to learn more especially about the cloud or AI.
 
 ## Skills
@@ -10,7 +10,9 @@ I'm a chemical engineer turned software engineer and I'm excited (and scared) ab
 * 🌿  MongoDB
 * 💻  HTML, CSS, Js
 
+## Interests
 - 🌱 I’m currently learning React, Node,Express and MongoDB 
+- ☁ 🤖 For the future (cloud or machine learning)
 - ⚡ Fun fact: Loves coffee, dogs, and peace 
 
 
