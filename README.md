@@ -13,7 +13,7 @@ I'm a chemical engineer turned software engineer and I'm excited (and scared) ab
 * 💻  HTML, CSS, Js
 
 ## Interests
-- 🌱 I’m currently learning React, Node,Express and MongoDB
+- 🌱 I’m currently learning Ruby 💎
 - ☁️ 🤖 For the future (cloud or machine learning)
 - ⚡ Fun fact: Loves coffee, dogs, and peace 
 
