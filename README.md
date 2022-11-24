@@ -4,23 +4,20 @@
 
 <img src="https://github.com/idvd20/idvd20/blob/main/RengokuGIF.gif" width="150" />
 
-I'm a chemical engineer turned software engineer and I'm excited (and scared) about making this switch! So far I really enjoy learning and there are so much to learn. I've been learning React, Node, Express, and MongoDB, and excited to learn more especially about the cloud or AI.
+I'm a chemical engineer turned software engineer and I'm excited (and scared) about making this switch! So far I really enjoy learning and there are so much to learn. I've been learning Ruby on Rails and excited to learn more especially about the cloud.
 
 ## Skills
+* 💎  Ruby on Rails
 * ⚛   React
 * ⬢   Node
 * 🌿  MongoDB
-* 💻  HTML, CSS, Js
+* 💻  HTML, CSS, JS, Ruby
 
 ## Interests
-- 🌱 I’m currently learning Ruby 💎
-- ☁️ 🤖 For the future (cloud or machine learning)
-- ⚡ Fun fact: Loves coffee, dogs, and peace 
-
-## Socials
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/idvd20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/eeyawwn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Coffee_isomer)  
+- 🌱 I’m currently learning Ruby on Rails 💎
+- ☁️ 🤖 For the future (cloud or IoT)
+- ⚡ Fun fact: Loves coffee, dogs, and peace  
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idvd20)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=idvd20&show_icons=true)  
-
